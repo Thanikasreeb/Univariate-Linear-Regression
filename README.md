@@ -55,7 +55,8 @@ plt.show()
 ```
 ## Output
 
-
+![](/uni1.png)
+![](/uni2.png)
 
 ## Result
 
